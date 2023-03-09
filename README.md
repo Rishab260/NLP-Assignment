@@ -1,5 +1,5 @@
 # NLP-Assignment
-<h2>Kaggle Code: https://www.kaggle.com/code/rishab260/news-classification/ </h2>
+<h2>Kaggle link to code: https://www.kaggle.com/code/rishab260/news-classification/ </h2>
 <h2> Dataset Used: https://www.kaggle.com/datasets/rmisra/news-category-dataset </h2>
 
 <h1>Notes </h1>
